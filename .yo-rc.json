@@ -1,0 +1,21 @@
+{
+  "generator-rvwallet": {
+    "baseName": "rvwallet",
+    "packageName": "com.revisa.rvwallet",
+    "packageFolder": "com/revisa/rvwallet",
+    "authenticationType": "oauth2",
+    "hibernateCache": "hazelcast",
+    "clusteredHttpSession": "hazelcast",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "no",
+    "useCompass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "enableTranslation": true,
+    "rememberMeKey": "ab07c9a82bc85aea84565480e2c72e157859d9b4"
+  }
+}

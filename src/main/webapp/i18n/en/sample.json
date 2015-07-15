@@ -1,0 +1,19 @@
+{
+    "rvwalletApp": {
+        "sample" : {
+            "home": {
+                "title": "Samples",
+                "createLabel": "Create a new Sample",
+                "createOrEditLabel": "Create or edit a Sample"
+            },
+            "delete": {
+                "question": "Are you sure you want to delete Sample {{ id }}?"
+            },
+            "detail": {
+                "title": "Sample"
+            },
+            "name": "Name",
+            "description": "Description"
+        }
+    }
+}
